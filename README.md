@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/giorgiajs"><img src="https://api.daily.dev/devcards/fd74526f930d4d22b0c8618a540a6414.png?r=44l" width="400" alt="Giorgia's Dev Card"/></a>
 
 <!--
 **giorgiabosello/giorgiabosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
