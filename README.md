@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 100%; display: inline-block; width: 30px;" />, I'm Giorgia</h1>
 <h3 align="center">A passionate front-end developer from Italy</h3>
 
-- 🔭 I’m currently working on [google-maps-react-markers](https://github.com/giorgiabosello/google-maps-react-markers)
+- 🔭 I'm currently working on [google-maps-react-markers](https://github.com/giorgiabosello/google-maps-react-markers)
 
-- 🌱 I’m currently learning **ReactJs, ThreeJs, Node, GraphQL**
+- 🌱 I'm currently learning **ReactJs, ThreeJs, Node, GraphQL, MongoDB, Mongoose**
+
+- 🤓 and... I'm studying things to be a full-stack developer!
 
 - 👨‍💻 All of my projects are available at [https://github.com/giorgiabosello/](https://github.com/giorgiabosello/)
 
