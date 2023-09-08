@@ -3,7 +3,7 @@
 
 -   🔭 I'm currently working on [google-maps-react-markers](https://github.com/giorgiabosello/google-maps-react-markers)
 
--   🌱 I'm currently learning **ReactJs, ThreeJs, Node, GraphQL, MongoDB, Mongoose**
+-   🌱 I'm currently learning **ReactJs, TypeScript, Node, GraphQL, MongoDB, Mongoose**
 
 -   🤓 and... I'm studying things to be a full-stack developer!
 
