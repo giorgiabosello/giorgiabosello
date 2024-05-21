@@ -30,5 +30,5 @@
 
 <br>
 <p align="center">
-<a href="https://app.daily.dev/giorgiajs"><img src="https://api.daily.dev/devcards/fd74526f930d4d22b0c8618a540a6414.png?r=44l" width="300" alt="Giorgia's Dev Card"/></a>
+<a href="https://app.daily.dev/giorgiajs"><img src="https://api.daily.dev/devcards/v2/aa4c66df53e4451dacc13baa9eee8617.png?type=default&r=vc1" width="356" alt="Giorgia's Dev Card"/></a>
 </p>
